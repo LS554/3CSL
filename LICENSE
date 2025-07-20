@@ -1,6 +1,6 @@
-BSD 3-Clause License
+3-Clause Sheard License
 
-Copyright (c) 2025, LS554
+Copyright (c) [year], [author]
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -9,8 +9,10 @@ modification, are permitted provided that the following conditions are met:
    list of conditions and the following disclaimer.
 
 2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+   this list of conditions, and the following disclaimer in a publicly accessible
+   location provided with the distribution, such as a repository, project website,
+   or documentation folder. The same publicly accessible location from which the binary is obtained
+   must also clearly state where the complete corresponding source code can be accessed.
 
 3. Neither the name of the copyright holder nor the names of its
    contributors may be used to endorse or promote products derived from
