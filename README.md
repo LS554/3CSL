@@ -2,6 +2,6 @@ Place the LICENSE file in your project root and use this header in all source fi
 
 ```
 Copyright (c) [year], [author]
-Licensed under the 10-Clause Sheard License
+Licensed under the 3-Clause Sheard License
 See the LICENSE file in project root for details.
 ```
