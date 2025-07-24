@@ -1,5 +1,4 @@
-Place the LICENSE file in your project root and use this header in all source files:
-
+Place the LICENSE file in your project root:
 ```
 3-Clause Sheard License
 
@@ -32,7 +31,7 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
-
+and use this header in all source files:
 ```
 Copyright (c) [year], [author]
 Licensed under the 3-Clause Sheard License
