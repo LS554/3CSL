@@ -1,3 +1,30 @@
+# Summary:
+
+The 3CSL is a modified BSD license that permits binary forms to be distributed, provided that the copyright notice, list of conditions, and disclaimer are made available in a publicly accessible location, which also clearly states where the complete source code can be obtained.
+
+- **Permissions**:  
+  - Redistribution and use in **source** and **binary** forms are allowed, with or without modification.
+
+- **Conditions**:  
+  1. **Source code redistribution** must retain:  
+     - Copyright notice  
+     - List of conditions  
+     - Disclaimer  
+  2. **Binary redistribution** must ensure:  
+     - The same notices are available in a **publicly accessible location** (e.g., repository, website, documentation folder)  
+     - That location clearly states where the **complete source code** can be accessed  
+  3. **No endorsement**:  
+     - Names of copyright holders or contributors **cannot be used to promote derived products** without written permission  
+
+- **Disclaimer / Liability**:  
+  - Software is provided **"as is"**  
+  - No warranties, express or implied (including merchantability or fitness for purpose)  
+  - Authors are **not liable** for any damages or losses arising from use
+
+
+
+# Usage:
+
 Place the LICENSE file in your project root:
 ```
 3-Clause Sheard License
