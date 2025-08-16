@@ -27,7 +27,7 @@ The 3CSL is a modified BSD license that permits binary forms to be distributed, 
 
 Place the LICENSE file in your project root:
 ```
-3-Clause Sheard License
+3-Clause Sheard License (https://github.com/LS554/3CSL)
 
 Copyright (c) [year], [author]
 
